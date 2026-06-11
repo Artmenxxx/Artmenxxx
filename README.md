@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Anton 👋
 
-<!--
-**Artmenxxx/Artmenxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student at SSOŠ Hranice (Czech Republic), focusing on system
+administration and infrastructure, while building my path toward
+frontend development.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript, learning React
+**Backend:** Node.js, Express
+**Databases:** MariaDB, PostgreSQL
+**Infrastructure:** Linux, nginx, Raspberry Pi homelab, Docker basics
+
+## 🚀 Current projects
+
+- **Blog platform** — full-stack blog with admin panel, auth and
+  MariaDB (Node.js/Express)
+- **React e-commerce app** — learning project with Vite
+- Homelab: self-hosted services on Raspberry Pi 4B
+  (code-server, Nextcloud, Portainer)
+
+## 🌱 Currently learning
+
+React, modern JavaScript patterns, CI/CD basics
+
+## 📫 Contact
+
+Telegram: @ваш_ник • Email: artmenxxx@gmail.com
+
+🗣 Russian (native) • Ukrainian (native) • Czech • English
