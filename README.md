@@ -13,8 +13,11 @@ frontend development.
 ## 🔧 What I work with
 
 **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript, learning React
+
 **Backend:** Node.js, Express
+
 **Databases:** MariaDB, PostgreSQL
+
 **Infrastructure:** Linux, nginx, Raspberry Pi homelab, Docker basics
 
 ## 🚀 Current projects
@@ -31,6 +34,6 @@ React, modern JavaScript patterns, CI/CD basics
 
 ## 📫 Contact
 
-Telegram: @ваш_ник • Email: artmenxxx@gmail.com
+Telegram: @request_artmenxxx_bot • Email: artmenxxx@gmail.com
 
 🗣 Russian (native) • Ukrainian (native) • Czech • English
